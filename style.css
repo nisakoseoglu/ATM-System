@@ -329,3 +329,17 @@ body {
         grid-template-columns: 1fr;
     }
 }
+.demo-text {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 5px 12px;
+
+    background-color: #d9a441;
+    color: white;
+
+    font-size: 12px;
+    font-weight: bold;
+
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
